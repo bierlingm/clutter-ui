@@ -1,10 +1,13 @@
-*Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
+# Clutter UI
 
-*Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+This repository acts as a companion to the [Clutter repository](https://github.com/artbrock/clutter). In here, we are building a Svelte-based UI for a Twitter clone based on [Holochain RSM](https://github.com/holochain/holochain).
 
----
+## How to engage with the project
 
-# svelte app
+Join the [DEV.HC Discord Server](https://discord.gg/uz9yqMu3QH), agree to the rules of participation, and say hi in the #clutter channel. We intend to make the development a collaborative process and host ongoing planned and spontaneous co-building sessions.
+
+Be warned: we are "working into the rough" here and suggestions for how to improve the repository and our process around it are very welcome indeed.
+## svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
